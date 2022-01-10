@@ -13,3 +13,7 @@
 * The Iliad
 * Pindar, something
 * Anything on the Hitites
+* A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome, Dr. Emma Southon
+* Agrippina: The Most Extraordinary Woman of the Roman World, Dr. Emma Southon
+* A Book on C
+* The C Programming Language
