@@ -17,3 +17,6 @@
 * Agrippina: The Most Extraordinary Woman of the Roman World, Dr. Emma Southon
 * A Book on C
 * The C Programming Language
+* Marcel Mauss, aything
+* Claude Levi Strauss, Anyhting
+* The Goddesses and Gods of Old Europe, Marija Gimbutas
