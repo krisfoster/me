@@ -20,3 +20,4 @@
 * Marcel Mauss, aything
 * Claude Levi Strauss, Anyhting
 * The Goddesses and Gods of Old Europe, Marija Gimbutas
+* Racket Programming the Fun Way, https://nostarch.com/racket-programming-fun-way
