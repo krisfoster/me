@@ -21,3 +21,6 @@
 * Claude Levi Strauss, Anyhting
 * The Goddesses and Gods of Old Europe, Marija Gimbutas
 * Racket Programming the Fun Way, https://nostarch.com/racket-programming-fun-way
+* Crafting Interpreters, http://craftinginterpreters.com
+* A People's Tragedy: The Russian Revolution, 1891-1924
+* Nomonhan, 1939: The Red Army's Victory That Shaped World War II
