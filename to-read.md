@@ -25,3 +25,4 @@
 * A People's Tragedy: The Russian Revolution, 1891-1924
 * Nomonhan, 1939: The Red Army's Victory That Shaped World War II
 * It came from Something Awful, https://us.macmillan.com/books/9781250189745/itcamefromsomethingawful
+* Douglas Rushkof
